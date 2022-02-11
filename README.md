@@ -1,0 +1,2 @@
+# installPrismaNode
+installPrismaNode
